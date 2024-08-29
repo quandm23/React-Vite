@@ -1,0 +1,10 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.mt-20{
+    margin: 10px 20px 0px 0px;
+}
+.form{
+    background-color: none;
+}
